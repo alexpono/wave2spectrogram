@@ -19,3 +19,7 @@ Compute spectrogram
 ### Level 3 again and again
 
 Display Spectrogram
+
+# Tests
+
+I will use birds data from https://birdnet.cornell.edu/samples/ to test the spectrogram features.
